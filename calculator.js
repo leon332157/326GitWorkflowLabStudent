@@ -28,7 +28,9 @@ function naturalLog(value) {
 
 // TODO: Implement sine function
 function sine(value) {
-    // return the sine of value
+    // return the sine of the value
+    let valueInRadians = valueInDegrees * (Math.PI / 180);
+    return Math.sin(valueInRadians);
 }
 
 // TODO: Implement cosine function
