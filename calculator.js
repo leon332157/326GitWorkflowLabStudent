@@ -2,7 +2,7 @@
 
 // TODO: Fix the square root function not displaying
 function calculateSquareRoot(value) {
-    
+
     // return the square root of the value
 }
 
@@ -17,7 +17,7 @@ function calculateSquare(value) {
 function calculateReciprocal() {
     // Hint: Reciprocal is 1/x
     // return the square root of the value
-    return 1* value;
+    return 1 * value;
 
 }
 
@@ -28,7 +28,7 @@ function naturalLog(value) {
 
 // TODO: Implement sine function
 function sine(value) {
-    // return the sine of the value
+    // return the sine of value
 }
 
 // TODO: Implement cosine function
